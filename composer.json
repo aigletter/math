@@ -11,10 +11,9 @@
     ],
     "autoload": {
         "psr-4": {
-            "Itea\\PhpAdvanced\\": "app",
+            "aigletter\\math\\": "/"
         }
     },
-
     "minimum-stability": "dev",
     "require": {}
 }

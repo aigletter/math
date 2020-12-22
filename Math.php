@@ -1,6 +1,9 @@
 <?php
 
 
+namespace ailgetter\math;
+
+
 class Math
 {
     public function run($a, $b)
