@@ -1,0 +1,20 @@
+{
+    "name": "aigletter/math",
+    "description": "Test library",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Yurii Orlyk",
+            "email": "aigletter@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Itea\\PhpAdvanced\\": "app",
+        }
+    },
+
+    "minimum-stability": "dev",
+    "require": {}
+}
